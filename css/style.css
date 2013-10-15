@@ -1,0 +1,23 @@
+body,html {
+	min-width: 630px;
+}
+.small {
+	width:12em;
+	height: auto;
+}
+#map {
+        width: 500px;
+        height: 400px;
+      }
+#comment {
+	resize:vertical;
+}
+.badValue {
+	border:1px solid red;
+}
+.goodValue {
+	border:1px solid green;
+}
+.captchacode {
+	resize:none;
+}
